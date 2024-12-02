@@ -1,5 +1,8 @@
 # RP-2024-25J-125-Crop-yield-prediction---Paddy-harvest-
 # RiceGenie
+
+![image](https://github.com/user-attachments/assets/561da1a1-2cbf-4bfc-9f2c-3f834ce76e38)
+
 A Comprehensive System for Enhancing Paddy Cultivation
 
 # Overview
