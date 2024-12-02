@@ -30,13 +30,19 @@ Utilizes image processing to detect diseases in paddy fields, providing actionab
 Employs image processing to identify weed varieties in paddy fields and offers strategies for their management.
 
 # Technology Stack
+
 Programming Languages: Python, JS
+
 Frameworks and Libraries:
+
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
 Deep Learning: CNN
 Data Analysis: Pandas, NumPy
+
 Tools: Jupyter Notebook, Google Colab
+
 Web application: MERN Stack
+
 Deployment: Flask, Streamlit (for the final user interface)
 
 # Dataset Sources
