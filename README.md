@@ -9,10 +9,13 @@ RiceGenie is a research-driven project designed to optimize paddy cultivation by
 
 
 # Features
+
 **Crop Yield Prediction Model**
+
 Predicts potential yield based on weather, water availability, and soil conditions.
  
 **Paddy Variety Prediction Model (Your Focus)**
+
 Identifies the most suitable rice varieties for specific regions based on user-input districts, leveraging local climate and soil data.
 
 **Pre Harvesting Disease Detection & Treatment Suggestion Model**
@@ -20,5 +23,6 @@ Identifies the most suitable rice varieties for specific regions based on user-i
 Utilizes image processing to detect diseases in paddy fields, providing actionable prevention and treatment strategies.
 
 **Weed Detection and Management Model**
+
 Employs image processing to identify weed varieties in paddy fields and offers strategies for their management.
 
