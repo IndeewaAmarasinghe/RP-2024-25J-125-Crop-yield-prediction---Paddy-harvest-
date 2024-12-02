@@ -1,9 +1,6 @@
 # RP-2024-25J-125-Crop-yield-prediction---Paddy-harvest-
 # RiceGenie
 
-
-![image](https://github.com/user-attachments/assets/561da1a1-2cbf-4bfc-9f2c-3f834ce76e38)
-
 A Comprehensive System for Enhancing Paddy Cultivation
 
 # Overview
@@ -11,6 +8,8 @@ RiceGenie is a research-driven project designed to optimize paddy cultivation by
 
 ![image](https://github.com/user-attachments/assets/9628dd67-94ff-4883-9445-abe7f04eca6a)
 
+# Group Member Details
+![image](https://github.com/user-attachments/assets/561da1a1-2cbf-4bfc-9f2c-3f834ce76e38)
 
 # Features
 
@@ -29,4 +28,25 @@ Utilizes image processing to detect diseases in paddy fields, providing actionab
 **4. Weed Detection and Management Model**
 
 Employs image processing to identify weed varieties in paddy fields and offers strategies for their management.
+
+# Technology Stack
+Programming Languages: Python, JS
+Frameworks and Libraries:
+Machine Learning: Scikit-learn, TensorFlow, PyTorch
+Deep Learning: CNN
+Data Analysis: Pandas, NumPy
+Tools: Jupyter Notebook, Google Colab
+Web application: MERN Stack
+Deployment: Flask, Streamlit (for the final user interface)
+
+# Dataset Sources
+Government Rice Research Department
+Bathalagoda Research Center
+Labuduwa Rice Research Station
+Department of Census and Statistics
+
+# Future Plans
+Improve prediction accuracy using advanced deep learning techniques.
+Deploy the system as a web or mobile application for farmers.
+Expand to other crops beyond paddy.
 
