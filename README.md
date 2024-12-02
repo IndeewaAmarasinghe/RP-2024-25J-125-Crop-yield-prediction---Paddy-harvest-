@@ -4,6 +4,8 @@ A Comprehensive System for Enhancing Paddy Cultivation
 
 # Overview
 RiceGenie is a research-driven project designed to optimize paddy cultivation by leveraging data science, machine learning, and image processing techniques. It integrates four interconnected components to address critical aspects of rice farming, ensuring sustainable and efficient agriculture.
+![image](https://github.com/user-attachments/assets/9628dd67-94ff-4883-9445-abe7f04eca6a)
+
 
 # Features
 Crop Yield Prediction Model
