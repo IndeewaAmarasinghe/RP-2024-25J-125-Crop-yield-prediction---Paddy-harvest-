@@ -1,5 +1,6 @@
 # RP-2024-25J-125-Crop-yield-prediction---Paddy-harvest-
-# RiceGenie
+# RiceGenie ![image](https://github.com/user-attachments/assets/b544f124-659f-4f4a-849e-f82d48004c0b)
+
 
 ![image](https://github.com/user-attachments/assets/561da1a1-2cbf-4bfc-9f2c-3f834ce76e38)
 
