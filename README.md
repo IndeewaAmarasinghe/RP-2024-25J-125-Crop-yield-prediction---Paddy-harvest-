@@ -46,13 +46,20 @@ Web application: MERN Stack
 Deployment: Flask, Streamlit (for the final user interface)
 
 # Dataset Sources
+
 Government Rice Research Department
+
 Bathalagoda Research Center
+
 Labuduwa Rice Research Station
+
 Department of Census and Statistics
 
 # Future Plans
+
 Improve prediction accuracy using advanced deep learning techniques.
+
 Deploy the system as a web or mobile application for farmers.
+
 Expand to other crops beyond paddy.
 
