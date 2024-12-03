@@ -11,6 +11,7 @@ RiceGenie is a research-driven project designed to optimize paddy cultivation by
 # Group Member Details
 ![image](https://github.com/user-attachments/assets/561da1a1-2cbf-4bfc-9f2c-3f834ce76e38)
 
+
 # Features
 
 **1. Crop Yield Prediction Model (IT21308352|	Jayathilaka D.H.R.A)**
