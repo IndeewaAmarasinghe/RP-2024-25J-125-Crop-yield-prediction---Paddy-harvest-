@@ -1,4 +1,4 @@
-# RP-2024-25J-125-Crop-yield-prediction---Paddy-harvest-
+# RP-2024-25J-125-RICEgenie - Crop yield prediction using machine learning – Paddy Harvest Prediction
 # RiceGenie
 
 A Comprehensive System for Enhancing Paddy Cultivation
