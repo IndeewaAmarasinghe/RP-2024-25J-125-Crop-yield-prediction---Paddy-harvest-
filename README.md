@@ -1,5 +1,7 @@
 # RP-2024-25J-125-RICEgenie - Crop yield prediction using machine learning – Paddy Harvest Prediction
 # RiceGenie
+#Repo Link - https://github.com/IndeewaAmarasinghe/RP-2024-25J-125-Crop-yield-prediction---Paddy-harvest-.git
+
 
 A Comprehensive System for Enhancing Paddy Cultivation
 
