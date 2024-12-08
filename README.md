@@ -33,19 +33,23 @@ Employs image processing to identify weed varieties in paddy fields and offers s
 
 # Technology Stack
 
-Programming Languages: Python, JS
+Programming Languages: 
+
+Backend: Python - 3.12.3  
+Frontend: JS
 
 Frameworks and Libraries:
 
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
-Deep Learning: CNN
+Image Processing: OpenCV
 Data Analysis: Pandas, NumPy
+Frontend: tailwind, Vite
 
 Tools: Jupyter Notebook, Google Colab
 
-Web application: MERN Stack
+Database: MySQL
 
-Deployment: Flask, Streamlit (for the final user interface)
+API: FastAPI
 
 # Dataset Sources
 
