@@ -41,8 +41,11 @@ Frontend: JS
 Frameworks and Libraries:
 
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
+
 Image Processing: OpenCV
+
 Data Analysis: Pandas, NumPy
+
 Frontend: tailwind, Vite
 
 Tools: Jupyter Notebook, Google Colab
